@@ -1,0 +1,2 @@
+# Hotel_Customer_Segmentation
+Customer segmentation project
